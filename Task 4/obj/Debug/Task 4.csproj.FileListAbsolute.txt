@@ -1,0 +1,14 @@
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\bin\Debug\Task 4.exe.config
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\bin\Debug\Task 4.exe
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\bin\Debug\Task 4.pdb
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\obj\Debug\Task 4.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\obj\Debug\Task 4.exe
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\проба\Task 4\obj\Debug\Task 4.pdb
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\bin\Debug\Task 4.exe.config
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\bin\Debug\Task 4.exe
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\bin\Debug\Task 4.pdb
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\obj\Debug\Task 4.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\obj\Debug\Task 4.exe
+D:\Visual Studio (2)\2 курс\2 семестр\ооп лаби\1 Lab\Task 4\obj\Debug\Task 4.pdb
